@@ -1,0 +1,36 @@
+# Core dependencies
+kafka-python==2.0.2
+confluent-kafka==2.3.0
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# AI/ML
+openai==1.10.0
+tiktoken==0.5.2
+chromadb==0.4.22
+sentence-transformers==2.2.2
+
+# Data processing
+pypdf==4.0.1
+python-docx==1.1.0
+unstructured==0.12.0
+langchain==0.1.4
+langchain-openai==0.0.5
+
+# Utilities
+python-dotenv==1.0.0
+tenacity==8.2.3
+prometheus-client==0.19.0
+structlog==24.1.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.21.1
+httpx==0.26.0
+
+# Development
+black==24.1.1
+flake8==7.0.0
+mypy==1.8.0
