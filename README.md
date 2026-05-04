@@ -73,6 +73,16 @@ python src/api.py
 
 ---
 
+
+---
+
+## Related Portfolio Systems
+
+- [Data Engineering Observability Platform](https://github.com/Snehabankapalli/data-engineering-observability-platform) — monitoring and alerting layer that sits on top of platforms like this
+- [Modern Data Platform Migration](https://github.com/Snehabankapalli/modern-data-platform-migration) — batch migration patterns that complement this streaming system
+- [HIPAA-Compliant Data Lake](https://github.com/Snehabankapalli/hipaa-data-lake-aws) — regulated variant of this pipeline architecture for healthcare data
+- [GenAI Data Engineering Portfolio](https://github.com/Snehabankapalli/genai-de-portfolio) — AI tooling for intelligent pipeline management
+
 ## Contributing
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for setup and workflow.
